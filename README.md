@@ -61,10 +61,10 @@ This approach ensures that the code is saved as `.py` files, which can be execut
 ## Getting Started
 
 ### Prerequisites
-You need Python and `numpy` installed. To install `numpy`, run:
+You need Python and `pandas` installed. To install `pandas`, run:
 
 ```bash
-pip install numpy
+pip install pandas
 ```
 
 ## Running the code
@@ -75,6 +75,9 @@ git clone https://github.com/krlsbrre/PA3.git
 ```
 #### 2. Navigate to the project directory and drag & upload the .ipynb file to Jupyter Notebook
 
+## **Changelog**
+
+See the [`CHANGELOG`](https://github.com/krlsbrre/PA3/releases/tag/v0.4) link for details.
 
 ## Author
 
