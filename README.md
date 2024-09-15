@@ -17,6 +17,33 @@ This repository contains two Python-based data analytics problems:
 4. **Complex Query**:
    - Determine how many cylinders (‘cyl’) and what gear type (‘gear’) do the car models ‘Mazda RX4 Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have.
 
+## How `.py` Files Were Saved
+
+The `.py` files for this assignment were saved using custom `filewrite()` and `fileread()` functions.
+
+1. **`filewrite()`**:
+   - This function is used to save a block of Python code into a `.py` file.
+   - Example:
+     ```python
+     filecontent1 = """
+     import pandas as pd
+     cars_file = pd.read_csv('cars.csv')
+
+     cars_file.head()
+     cars_file.tail()
+     """
+     filewrite('Sabarre_Pandas-P1.py', filecontent1)
+     ```
+   - The above code writes the content of Problem 1 to a file named `Sabarre_Pandas-P1.py`.
+
+2. **`fileread()`**:
+   - This function is used to read the contents of a `.py` file and display it in the notebook.
+   - Example:
+     ```python
+     fileread('Sabarre_Pandas-P1.py')
+     ```
+
+This approach ensures that the code is saved as `.py` files, which can be executed independently from the notebook.
 
 ## Getting Started
 
@@ -31,11 +58,11 @@ pip install numpy
 
 #### 1. Clone the repository:
 ```bash
-git clone https://github.com/krlsbrre/PA2.git
+git clone https://github.com/krlsbrre/PA3.git
 ```
 #### 2. Navigate to the project directory and drag & upload the .ipynb file to Jupyter Notebook
 
 
 ## Author
 
-- [@krlsbrre - Karlos Louis M. Sabarre - 2ECE-A](https://www.github.com/krlsbrre)
+- [@krlsbrre - Karlos Louis M. Sabarre - 2ECE-A - 2023184838](https://www.github.com/krlsbrre)
