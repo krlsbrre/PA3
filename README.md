@@ -8,8 +8,8 @@ This repository contains two Python-based data analytics problems:
 - Load the `cars.csv` file into a Pandas DataFrame.
 - Display the first and last five rows of the dataset.<br />
 **Expected output:** <br />
-   First 5 rows: ![image](https://github.com/user-attachments/assets/3ba77655-085b-44a8-91f6-7050515b92b7)
-   Last 5 rows: ![image](https://github.com/user-attachments/assets/87b66da9-ee50-4077-b11c-c908c66587f5)
+   First 5 rows: <br />![image](https://github.com/user-attachments/assets/3ba77655-085b-44a8-91f6-7050515b92b7)<br />
+   Last 5 rows: <br />![image](https://github.com/user-attachments/assets/87b66da9-ee50-4077-b11c-c908c66587f5)
 
 ### Problem 2: Data Manipulation Using Pandas
 1. **Subsetting**:  
