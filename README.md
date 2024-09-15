@@ -13,20 +13,20 @@ This repository contains two Python-based data analytics problems:
 
 ### Problem 2: Data Manipulation Using Pandas
 1. **Subsetting**:  
-   - Display the first five rows with odd-numbered columns (columns 1, 3, 5, 7…) of cars.
-   **Expected output:**
+   - Display the first five rows with odd-numbered columns (columns 1, 3, 5, 7…) of cars.<br />
+   **Expected output:**<br />
       ![image](https://github.com/user-attachments/assets/da480e12-9d9e-4f74-8a5a-5a817ce893ee)
 2. **Indexing**:
-   - Display the row that contains the ‘Model’ of ‘Mazda RX4’.
-   **Expected output:**
+   - Display the row that contains the ‘Model’ of ‘Mazda RX4’.<br />
+   **Expected output:**<br />
       ![image](https://github.com/user-attachments/assets/de2e0485-65cd-43d7-9d07-d73ce580b296)
 3. **Data Querying**:
-   - How many cylinders (‘cyl’) does the car model ‘Camaro Z28’ have?
-   **Expected output:**
+   - How many cylinders (‘cyl’) does the car model ‘Camaro Z28’ have?<br />
+   **Expected output:**<br />
       ![image](https://github.com/user-attachments/assets/fe8da4ec-a4b3-47cf-b308-9b38107bcede)
 4. **Complex Query**:
-   - Determine how many cylinders (‘cyl’) and what gear type (‘gear’) do the car models ‘Mazda RX4 Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have.
-   **Expected output:**
+   - Determine how many cylinders (‘cyl’) and what gear type (‘gear’) do the car models ‘Mazda RX4 Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have.<br />
+   **Expected output:**<br />
       ![image](https://github.com/user-attachments/assets/ca6e6e03-a060-4ad5-90bc-23f3f8449faf)
 
 
