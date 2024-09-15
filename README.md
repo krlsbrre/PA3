@@ -77,7 +77,7 @@ git clone https://github.com/krlsbrre/PA3.git
 
 ## **Changelog**
 
-See the [`CHANGELOG`](https://github.com/krlsbrre/PA3/releases/tag/v0.4) link for details.
+See the [`CHANGELOG`](https://github.com/krlsbrre/PA3/releases) link for details.
 
 ## Author
 
